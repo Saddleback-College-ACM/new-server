@@ -16,7 +16,7 @@ Python dependencies are managed using [Pipenv](https://pipenv.pypa.io/).
   ```
 2. Build the client-side files:
   ```
-  cd rover/control-panel
+  cd rover/component-library
   npm install
   npm run build
   ```
@@ -36,7 +36,7 @@ UI components are tested using [Storybook](https://storybook.js.org/).
 Create new test cases by creating a `*.stories.ts` (or `*.stories.js`) file in `src/`.
 
 ```
-cd rover/control-panel
+cd rover/component-library
 npm run storybook
 ```
 

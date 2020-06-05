@@ -122,5 +122,5 @@ USE_TZ = True
 STATIC_URL = '/static/'
 STATIC_ROOT = 'dist/static'
 STATICFILES_DIRS = [
-    'control-panel/www',
+    'component-library/www',
 ]

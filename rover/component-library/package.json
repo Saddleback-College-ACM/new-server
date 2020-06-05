@@ -1,5 +1,5 @@
 {
-  "name": "rover-control-panel",
+  "name": "rover-component-library",
   "version": "0.0.1",
   "description": "Stencil Component Starter",
   "main": "dist/index.js",
@@ -9,7 +9,7 @@
   "types": "dist/types/index.d.ts",
   "collection": "dist/collection/collection-manifest.json",
   "collection:main": "dist/collection/index.js",
-  "unpkg": "dist/rover-control-panel/rover-control-panel.js",
+  "unpkg": "dist/rover-component-library/rover-component-library.js",
   "files": [
     "dist/",
     "loader/"
