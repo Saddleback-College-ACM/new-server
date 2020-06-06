@@ -31,7 +31,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
-    'frontend',
+    'website',
     'rtc',
     'django.contrib.admin',
     'django.contrib.auth',
@@ -122,5 +122,5 @@ USE_TZ = True
 STATIC_URL = '/static/'
 STATIC_ROOT = 'dist/static'
 STATICFILES_DIRS = [
-    'control-panel/www',
+    'component-library/dist',
 ]
